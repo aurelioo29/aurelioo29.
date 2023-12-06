@@ -17,7 +17,7 @@
 **📫 Reach me on**
 
 <a href="https://github.com/aurelioo29">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 </a>
 <a href="https://discord.com/users/701604338149228724">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-728FCE?style=for-the-badge&logo=discord&logoColor=white">
