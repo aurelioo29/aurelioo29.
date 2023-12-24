@@ -53,7 +53,7 @@
 
 <h2 align="center">⚡ Our Stats ⚡</h2>
 <div align=center>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=aurelioo29&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=aurelioo29&count_private=true&show_icons=true&theme=react&rank_icon=&border_radius=10"/>
   <img width=305 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurelioo29&layout=compact&theme=react&border_radius=10&size_weight=1&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
 
