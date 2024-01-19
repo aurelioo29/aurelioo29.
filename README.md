@@ -12,8 +12,6 @@
 
 🌱 I’m currently learning _**Javascipt, PHP**_
 
-😄 Pronouns _**He/Him**_
-
 **📫 Reach me on**
 
 <a href="https://github.com/aurelioo29">
