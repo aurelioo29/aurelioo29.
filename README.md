@@ -20,9 +20,9 @@
 <a href="https://discord.com/users/701604338149228724">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-728FCE?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/aureliolucio">
+<!-- <a href="https://linkedin.com/in/aureliolucio">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a> -->
 <a href="https://instagram.com/aurelio29_">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
