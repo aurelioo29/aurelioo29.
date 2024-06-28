@@ -10,7 +10,7 @@
 
 ✨ I'm love all things about _**Programming & Tech**_
 
-🌱 I’m currently learning _**Javascipt, PHP, Python**_
+🌱 I’m currently learning _**React JS, Laravel**_
 
 **📫 Reach me on**
 
