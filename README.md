@@ -1,14 +1,12 @@
 ## Hellow All 👋 !!! <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aurelioo29.aurelioo29" />
 
 Hi everyone, I'm Aurelio. I'm from Medan (Indonesia). 
-I'm in the process of continuous learning, currently focusing on mastering React JS and Laravel. 
-I'm also passionate about collaborating on projects.
+I'm in the process of continuous learning, currently focusing on mastering React JS and Laravel.
+I'm also passionate about collaborating on projects. You can also reach me on
 
 <!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hellooowww!+👋;+I'm+Aurelio!;" />
 </h1> -->
-
-You can also reach me on
 
 <!-- <a href="https://github.com/aurelioo29">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
