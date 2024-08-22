@@ -23,6 +23,7 @@ I'm also passionate about collaborating on projects. You can also reach me on
 <a href="mailto:aureliolucio5@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<img src="https://www.codewars.com/users/Haloio29/badges/micro">
  
 <!-- <h2 align="center">⚒️ Languages & Frameworks & Tools⚒️</h2>
 
